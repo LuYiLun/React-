@@ -3,6 +3,7 @@
 
 
 react 类组件模板
+```jsx
 import React, { Component } from 'react';
 
 import { Tabs } from 'antd';
@@ -20,3 +21,4 @@ class ComponentName extends React.Component {
     ) 
   }
 }
+```
